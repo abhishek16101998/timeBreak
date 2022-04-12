@@ -1,1 +1,4 @@
 # timeBreak
+
+Work-life balance was one of the key factors to be looked into when the employees started to look into since the pandemic started and the work from home model. Employees should be taking continuous break in between their working hours to improve their productivity. But How?? That was the question...I came up with an idea of letting the user know when should he take the break through a notification panel based on the input they provide.
+We can enhance the application to actually validate if the user took the break or not. We can then make use of machine learning to let the user know about the efficiency time he was able to take the break successfully and the productivity booster target. We can make recommendations for break and focus time combination based on the user parameters by taking continuous input from the user once in a week/month about the increase in productivity.
